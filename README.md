@@ -1,2 +1,1 @@
-# prepcourse-henry
-Repositorio de prueba N1
+Este proyecto es una prueba para crearlo y clonarlo a mi repositorio local
